@@ -1,0 +1,8 @@
+0:
+  name: "Skyblock"
+  cmd: "is"
+  url: "https://image.png" #<url | null>
+1:
+  name: "Shop"
+  cmd: "shop"
+  url: "https://image.png" #<url | null>
